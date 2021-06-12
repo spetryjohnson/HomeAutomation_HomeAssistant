@@ -1,2 +1,2 @@
 # HomeAutomation_HomeAssistant
-My Home Assistant config
+Off-site backup of my Home Assistant config files
